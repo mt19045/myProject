@@ -1,0 +1,1 @@
+double mySubFnc(double, double);
